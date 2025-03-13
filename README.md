@@ -6,6 +6,7 @@ Este é um backend de um projeto pessoal, criado como uma ideia para demonstrar 
 Ele consiste em uma API para cadastro e listagem de fornecedores, conectada ao MongoDB.
 
 🚀 Tecnologias usadas
+
 Node.js
 Express
 MongoDB (Mongoose)
@@ -13,6 +14,7 @@ Cors
 Dotenv
 
 🔧 Como rodar o projeto
+
 1️⃣ Clone o repositório:
 2️⃣ Instale as dependências: npm install
 3️⃣ Configure o arquivo .env:MONGO_URI=sua_string_de_conexao
@@ -25,5 +27,6 @@ Criar um fornecedor: POST /fornecedores
 Listar fornecedores: GET /fornecedores
 
 📜 Licença
+
 Este projeto está sob a licença MIT.
 
