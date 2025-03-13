@@ -8,9 +8,13 @@ Ele consiste em uma API para cadastro e listagem de fornecedores, conectada ao M
 🚀 Tecnologias usadas
 
 Node.js
+
 Express
+
 MongoDB (Mongoose)
+
 Cors
+
 Dotenv
 
 🔧 Como rodar o projeto
